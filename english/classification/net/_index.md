@@ -191,7 +191,7 @@ features:
     more_feature:
       # more_feature_loop
       - title: "Supported Types of Taxonomy"
-        content: "GroupDocs.Classification Cloud SDK for .NET performs classification based on four types of Taxonomies. The raw text or document classification is done as per IAB-2, Document, Sentiment, or Sentiment3 taxonomies. Following example shows how to classify raw text based on IAB-2 taxonomy using SDK:‎‎"
+        content: "GroupDocs.Classification Cloud SDK for .NET performs classification based on four types of Taxonomies. The raw text or document classification is done as per IAB-2, Document, Sentiment, or Sentiment3 taxonomies. Following example shows how to classify raw text based on IAB-2 taxonomy using SDK:"
 
       # more_feature_loop
       - title: "Get document page as responsive HTML - .NET"
@@ -218,27 +218,22 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Viewer Cloud also offers individual document rendering SDKs for other popular languages as listed below:"
+    title: "GroupDocs.Classification Cloud also offers individual document rendering SDKs for other popular languages as listed below:"
 
     solution:
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for cURL"
-          image: "/sdk/272x272/groupdocs_translation-for-curl.webp"
-          product: "GroupDocs.Viewer"
+        - img_alt: "GroupDocs.Classification Cloud SDK for cURL"
+          image: "/sdk/272x272/groupdocs_classification-for-curl.webp"
+          product: "GroupDocs.Classification"
           platform: "cURL"
           link: "/classification/curl/"
 
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for .NET"
-          image: "/sdk/272x272/groupdocs_translation-for-net.webp"
-          product: "GroupDocs.Viewer"
+        - img_alt: "GroupDocs.Classification Cloud SDK for .NET"
+          image: "/sdk/272x272/groupdocs_classification-for-net.webp"
+          product: "GroupDocs.Classification"
           platform: ".NET"
           link: "/classification/net/"
-
-      
-
-     
-
         
 
 ############################# Back to top ###############################
