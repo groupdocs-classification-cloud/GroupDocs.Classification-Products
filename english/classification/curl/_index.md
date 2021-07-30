@@ -245,28 +245,23 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Viewer Cloud also offers individual document rendering SDKs for other popular languages as listed below:"
+    title: "GroupDocs.Classification Cloud also offers individual document rendering SDKs for other popular languages as listed below:"
 
     solution:
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for cURL"
-          image: "/sdk/272x272/groupdocs_translation-for-curl.webp"
-          product: "GroupDocs.Viewer"
+        - img_alt: "GroupDocs.Classification Cloud SDK for cURL"
+          image: "/sdk/272x272/groupdocs_classification-for-curl.webp"
+          product: "GroupDocs.Classification"
           platform: "cURL"
           link: "/classification/curl/"
 
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for .NET"
-          image: "/sdk/272x272/groupdocs_translation-for-net.webp"
-          product: "GroupDocs.Viewer"
+        - img_alt: "GroupDocs.Classification Cloud SDK for .NET"
+          image: "/sdk/272x272/groupdocs_classification-for-net.webp"
+          product: "GroupDocs.Classification"
           platform: " .NET"
           link: "/classification/net/"
 
-      
-
-     
-
-        
 
 ############################# Back to top ###############################
 back_to_top:
